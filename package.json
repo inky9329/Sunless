@@ -1,0 +1,8 @@
+{
+“name”: “Sunless”,
+“version”: “1.2.0”,
+“description”: “Sunless Discord bot”,
+“main”: “index.js”,
+“author”: “Inky#9329”,
+“dependencies”: {}
+}
